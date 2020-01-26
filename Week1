@@ -1,0 +1,65 @@
+Question 1
+Supervised learning deals with unlabeled data, while unsupervised learning deals with labelled data.
+Ans : False
+Supervised Learning deals with labelled data and unsupervised learning deals with unlabelled data.
+
+.Question 2
+Which of the following is not true about Machine Learning?
+
+
+Machine Learning was inspired by the learning process of human beings.
+
+
+Machine Learning models iteratively learn from data, and allow computers to find hidden insights.
+
+
+Machine Learning models help us in tasks such as object recognition, summarization, and recommendation.
+
+
+Machine learning gives computers the ability to make decision by writing down rules and methods and being explicitly programmed.
+
+Ans : Machine learning gives computers the ability to make decision by writing down rules and methods and being explicitly programmed. is False
+
+
+3.Question 3
+Which of the following groups are not Machine Learning techniques?
+
+
+Classification and Clustering
+
+
+Numpy, Scipy and Scikit-Learn
+
+
+Anomaly Detection and Recommendation Systems
+
+Ans: Numpy, Scipy and Scikit-Learn
+
+
+4.Question 4
+The "Regression" technique in Machine Learning is a group of algorithms that are used for:
+
+
+Predicting a continuous value; for example predicting the price of a house based on its characteristics.
+
+
+Prediction of class/category of a case; for example a cell is benign or malignant, or a customer will churn or not.
+
+
+Finding items/events that often co-occur; for example grocery items that are usually bought together by a customer.
+
+Ans : Predicting a continuous value; for example predicting the price of a house based on its characteristics.
+
+
+5.Question 5
+When comparing Supervised with Unsupervised learning, is this sentence True or False?
+
+In contrast to Supervised learning, Unsupervised learning has more models and more evaluation methods that can be used in order to ensure the outcome of the model is accurate.
+
+
+False
+
+
+True
+
+Ans : False
